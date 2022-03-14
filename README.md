@@ -3,10 +3,11 @@
 - 🤔 Estudando o mundo do full-stack
 - 📫 Gostou do meu trabalho? Entre em contato: elsensaegusa@gmail.com
 
+<img align="right" src="https://media.discordapp.net/attachments/924384834225319986/952725127626375188/yooout.gif?width=256&height=256">
+
 <div>
     <a href="https://github.com/yooout/"></a>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yooout&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&layout=compact">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooout&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=16">
+    <img style="display: inline-block" height="180em" src="https://github-readme-stats.vercel.app/api?username=yooout&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 ### Linguagens de programação, estilização e marcação que utilizo
@@ -24,3 +25,6 @@
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
+
+
+![Snake animation](https://github.com/yooout/yooout/blob/output/github-contribution-grid-snake.svg)
